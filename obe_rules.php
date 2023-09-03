@@ -121,6 +121,6 @@ add_action('obe-rules','obe-rules', 10, 2);
 add_action('obe-rules_error','obe-rules_error', 10, 1);
 
 // Load the plugin textdomain
-load_plugin_textdomain('obe-rules', '', 'password-rules');
+load_plugin_textdomain('obe-rules', '', 'obe-rules');
 
 ?>
