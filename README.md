@@ -1,2 +1,2 @@
 # Oberules
-ordpress Existing passwords will not be validated without Oberules
+wordpress Existing passwords will not be validated without Oberules
